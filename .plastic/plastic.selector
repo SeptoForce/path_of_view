@@ -1,0 +1,4 @@
+repository "path_of_view@path_of_view@cloud"
+  path "/"
+    br "/main"
+    co "/main"
